@@ -11,4 +11,15 @@ body{
     background-color: black;
     color: white;
     font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+table{
+    box-shadow: 3px 3px 3px whitesmoke;
+    border: whitesmoke;
+}
+li{
+    font-style: italic;
+}
+h1,h2,h3 {
+    font-weight: bold;
 }
